@@ -10,6 +10,8 @@ Machine learning engineer in New York City. I build production AI systems on Goo
 ## Featured projects
 
 - **[medical-rag-qa](https://github.com/mikaelaconnell/medical-rag-qa)** · Retrieval-augmented QA for women's hormonal health, built on PubMedQA with BiomedBERT, FAISS, and a quantized BioMistral-7B.
+- **[paloma](https://github.com/mikaelaconnell/paloma)** · AI trip planning app for friend groups: real-time collaboration, group polls, Pinterest import. Expo + Supabase.
+- **[walkers](https://github.com/mikaelaconnell/walkers)** · Members-only app for a NYC walking club: in-app applications, admin review, passwordless sign-in. Expo + Supabase.
 - **[reen-website](https://github.com/mikaelaconnell/reen-website)** · Next.js marketing site and waitlist for Reen, live at [reen-health.com](https://www.reen-health.com).
 - **[nyc-marathon-tracker](https://github.com/mikaelaconnell/nyc-marathon-tracker)** · Charity application and training tracker for the 2026 NYC Marathon, in dependency-free vanilla JavaScript.
 
